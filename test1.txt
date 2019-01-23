@@ -1,10 +1,1 @@
- Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est 78E4-42B4
-
- R‚pertoire de C:\Users\ADMIN\Desktop\Project
-
-23/01/2019  04:03    <DIR>          .
-23/01/2019  04:03    <DIR>          ..
-23/01/2019  04:03                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  76ÿ546ÿ048ÿ000 octets libres
+line 1
